@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\bin\Debug\netcoreapp1.1\Employee Data.deps.json
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\bin\Debug\netcoreapp1.1\Employee Data.runtimeconfig.json
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\bin\Debug\netcoreapp1.1\Employee Data.runtimeconfig.dev.json
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\obj\Debug\netcoreapp1.1\Employee Data.AssemblyInfo.cs
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\bin\Debug\netcoreapp1.1\Employee Data.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\bin\Debug\netcoreapp1.1\Employee Data.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\obj\Debug\netcoreapp1.1\Employee Data.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\FirstLecture\Employee Data\obj\Debug\netcoreapp1.1\Employee Data.pdb
